@@ -1,3 +1,3 @@
-# TimeSeries-Modeling
+# TimeSeries-Modeling --Predicting Amazon Stock Price
 
 This report is detail explanation of the real time series data analysis project. The project uses time series analysis technique to examine time series data. The main purpose of this paper is to implement all the techniques and time series analysis method to come up with the model that represents the data best. This paper experiments different linear model covered throughout the semester and finally selects a model. To accomplish the purpose, this report will be using python libraries and different python packages and comparing the results of different models. In addition with the python packages, the own code developed will also be used to accomplish the goal. The dataset that this paper will be using is from Yahoo’s Amazon Stock Price from 2000 to 2021. Develop a linear model representation of the data using Python
